@@ -1,0 +1,41 @@
+*{
+  padding:0;
+  margin:0;
+}
+body
+{
+  background-image:url("bg1.jpeg");
+}
+.card
+{
+  background-color:#fff;
+}
+.navbar-style
+{
+  box-shadow: 0 5px 10px #efefef;
+  text-transform: uppercase;
+}
+.logo
+{
+  height:100px;
+  padding:2px 10px;
+}
+.fa
+{
+  font-size: 40px;
+  background: linear-gradient(to right,#efefef,#efeffd);
+  -webkit-background-clip:text;
+  color:transparent;
+}
+span
+{
+  background: linear-gradient(to right,#ff6666,#cc0066);
+  -webkit-background-clip:text;
+  color:transparent;
+}
+.big-text
+{
+  font-size: 52px;
+  margin:20px 0;
+  color:#DC143C;
+} 
